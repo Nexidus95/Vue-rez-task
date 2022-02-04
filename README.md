@@ -1,6 +1,6 @@
 # uzduotis
 
-> duota uzduotis
+> Si uzduotis atlikta su VUE.js, pagrindinis vue scriptas src/App.vue faile
 
 ## Build Setup
 
